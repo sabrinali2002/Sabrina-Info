@@ -259,7 +259,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 header {
-    background-image: url(../img/autumn3.jpg);
+    background-image: url(../img/winter2.jpg);
     background-repeat: none;
     background-attachment: scroll;
     background-position: center center;
@@ -359,6 +359,10 @@ section h3.section-subheading {
 #portfolio .portfolio-item {
     margin: 0 0 15px;
     right: 0
+}
+
+#art1 {
+    width: 65%;
 }
 
 #portfolio .portfolio-item .portfolio-link {
